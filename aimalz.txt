@@ -1,7 +1,5 @@
 Alex was here.
-<<<<<<< HEAD
 Really?
-=======
 Alex returned.
 It was wild and crazy.
->>>>>>> testbranch
+And then everyone lived happily ever after
