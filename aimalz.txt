@@ -1,2 +1,7 @@
 Alex was here.
+<<<<<<< HEAD
 Really?
+=======
+Alex returned.
+It was wild and crazy.
+>>>>>>> testbranch
